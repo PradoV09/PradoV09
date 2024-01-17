@@ -1,11 +1,12 @@
-<div align='center'>
-<h1 align='center'> Hi, 👋 I'm Jose Luis </h1> 
+<div align= 'center'>
+<h1 align = 'center'> Hi, 👋 I'm Jose Luis </h1> 
 <img src = 'https://i.pinimg.com/originals/32/20/9e/32209ea88dc1e2145627f98db196df7a.jpg'>
+
+<body> I am currently a student at the Universidad del Valle </body>
+
 <!--
 **PradoV09/PradoV09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
