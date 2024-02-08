@@ -2,7 +2,7 @@
 <h1 align = 'center'> Hi, 👋 I'm Jose Luis </h1> 
 <img src = 'https://i.pinimg.com/originals/32/20/9e/32209ea88dc1e2145627f98db196df7a.jpg'>
 
-<body> I am currently a student at the Universidad del Valle </body>
+<body><h1> I am currently a student at the Universidad del Valle </body></h1>
 
 <!--
 **PradoV09/PradoV09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
