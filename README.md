@@ -7,9 +7,9 @@
 <h3 align="left">👩‍💻 About Me</h3>
 <p align="left">
   I'm Jose Luis from Colombia<br><br>
-  - 🔭 I’m working as ...<br>
-  - 📚 I'm currently learning ...<br>
-  - ⚡ In my free time I ...
+  - 🔭 I'm a student ...<br>
+  - 📚 I'm currently learning the concepts of clean code ...<br>
+  - ⚡ In my free time I exercise and learn new technologies ...
 </p>
 
 <h3 align="left">🛠 Language and Tools</h3>
@@ -28,6 +28,8 @@
 
 <h3 align="left">🔥 My Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PradoV09&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PradoV09&show_icons=true&theme=dark" alt="GitHub Stats" /> 
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradoV09&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="PradoV09's Top Languages" />
 </div>
