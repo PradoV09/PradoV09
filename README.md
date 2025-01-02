@@ -29,5 +29,5 @@
 <h3 align="left">🔥 My Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PradoV09&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PradoV09&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradoV09&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="PradoV09's Top Languages" />
 </div>
