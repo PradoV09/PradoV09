@@ -23,18 +23,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
 </div>
 
-<div align="center">
-  
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PradoV09&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</div>
-
 <h3 align="left">🔥 My Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PradoV09&show_icons=true&theme=dark" alt="GitHub Stats" /> 
+</div>
+<div align="center">
+  
+![](https://github-contributor-stats.vercel.app/api?username=PradoV09&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradoV09&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="PradoV09's Top Languages" />
