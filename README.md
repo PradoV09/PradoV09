@@ -1,16 +1,46 @@
-## Hi there 👋
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/280x280_RS/99/50/95/99509556967c62fdfe5ef5027cf44f1d.jpg" />
+</div>
 
-<!--
-**PradoV09/PradoV09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 align="center">hey there 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h3 align="left">👨‍💻 About Me</h3>
+
+###
+
+<p align="left">
+  Soy José Luis, de Colombia 🇨🇴<br><br>
+  - 🧠 Me obsesionan los buenos diseños de software<br>
+  - 🧑‍💻 Codeo con Node.js, React y Laravel<br>
+  - ☕ Fan del café, el sarcasmo y los commits a medianoche<br>
+  - 🏋️‍♂️ Entre gym y bugs, prefiero ambos
+</p>
+
+###
+
+<h3 align="left">🛠 Lenguajes y herramientas favoritas</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="40" alt="laravel logo" />
+</div>
+
+###
+
+<h3 align="left">🔥 Lenguajes más usados:</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PradoV09&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradoV09&layout=compact&theme=tokyonight" height="180"/>
+</div>
