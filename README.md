@@ -39,7 +39,7 @@
 
 ###
 
-<h3 align="left">🔥 Lenguajes más usados:</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
