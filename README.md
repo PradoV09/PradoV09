@@ -13,10 +13,13 @@
 ###
 
 <p align="left">
-  Soy José Luis, de Colombia 🇨🇴<br><br>
+  🕹️ José Luis // Nivel: 20<br>
+  Fan del café, bugs existenciales y memes salvavidas.<br>
+  Código, juego y siempre tarde, pero llego. <br>
+  📍Modo historia: activado.<br><br>
   - 🧠 Me obsesionan los buenos diseños de software<br>
   - 🧑‍💻 Codeo con Node.js, React y Laravel<br>
-  - ☕ Fan del café, el sarcasmo y los commits a medianoche<br>
+  - ☕ El sarcasmo y los commits a medianoche son mi zona de confort<br>
   - 🏋️‍♂️ Entre gym y bugs, prefiero ambos
 </p>
 
