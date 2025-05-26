@@ -13,10 +13,8 @@
 ###
 
 <p align="left">
-  🕹️ José Luis // Nivel: 20<br>
-  Fan del café, bugs existenciales y memes salvavidas.<br>
-  Código, juego y siempre tarde, pero llego. <br>
-  📍Modo historia: activado.<br><br>
+  -🕹️ José Luis // Nivel: 20<br>
+  -📍Modo historia: activado.<br>
   - 🧠 Me obsesionan los buenos diseños de software<br>
   - 🧑‍💻 Codeo con Node.js, React y Laravel<br>
   - ☕ El sarcasmo y los commits a medianoche son mi zona de confort<br>
