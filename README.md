@@ -43,5 +43,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PradoV09&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradoV09&layout=compact&theme=tokyonight" height="180"/>
 </div>
