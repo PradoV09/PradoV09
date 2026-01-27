@@ -1,132 +1,76 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/280x280_RS/99/50/95/99509556967c62fdfe5ef5027cf44f1d.jpg" />
+  <img height="150" src="https://i.pinimg.com/280x280_RS/99/50/95/99509556967c62fdfe5ef5027cf44f1d.jpg" style="border-radius: 50%;" />
 </div>
 
 <h1 align="center">Hey there 👋, soy Jose Luis Prado Valencia</h1>
 
-<h3 align="center">Tecnólogo en Desarrollo de Software | Backend Developer</h3>
+<h3 align="center">Tecnólogo en Desarrollo de Software | Backend Developer Jr. | Data Enthusiast</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/English-A2%20Elementary-blue?style=for-the-badge&logo=googletranslate&logoColor=white" />
+</p>
 
 ---
 
-## 👨‍💻 Perfil
+## 👨‍💻 Perfil Profesional
 
-Tecnólogo en Desarrollo de Software con sólida base técnica en **mantenimiento de hardware y redes**. Especializado en el **desarrollo de APIs RESTful** usando **NestJS, Node.js y SQL**.
+Tecnólogo en Desarrollo de Software con sólida base técnica en **mantenimiento de hardware y redes**. Especializado en el desarrollo de **APIs RESTful** utilizando **NestJS, Node.js y SQL**.
 
-Tengo formación en **Ciencia de Datos con Python (Pandas, NumPy)** y experiencia trabajando con **metodologías ágiles bajo SCRUM**. Nivel de **inglés A2**, capaz de leer y comprender documentación técnica sin drama 😎.
-
-Mi foco está claro: **backend escalable, limpio y eficiente**. Nada de código espagueti.
+Cuento con formación avanzada en **Ciencia de Datos con Python (Pandas, NumPy, Matplotlib)** y experiencia trabajando bajo metodologías ágiles (**SCRUM**). Mi enfoque es construir soluciones backend escalables, limpias y eficientes. **Nada de código espagueti, solo soluciones robustas.** 🚀
 
 ---
 
-## 📍 Información de contacto
+## 🛠️ Habilidades Técnicas
 
-* 📧 **Email:** [joseluispradov046@gmail.com](mailto:joseluispradov046@gmail.com)
-* 📱 **Tel:** 3223704317
-* 🌎 **Ubicación:** Buenaventura, Colombia
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/pradov09/](https://www.linkedin.com/in/pradov09/)
-* 🐙 **GitHub:** [https://github.com/PradoV09](https://github.com/PradoV09)
+### 🚀 Backend Development
 
----
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## 🎓 Educación
+### 📊 Data Science & Python
 
-### 📌 Aplicación del Marco de Trabajo SCRUM para Proyectos de Desarrollo de Software
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-**SENA – Servicio Nacional de Aprendizaje**
-📍 Buenaventura, Colombia | 🗓️ 12/2024 – 12/2024
+### 🗄️ Bases de Datos
 
-* Fundamentos de Scrum
-* Roles, eventos y artefactos
-* Aplicación en proyectos de desarrollo de software
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
----
+### 🔄 Herramientas & Metodologías
 
-### 📌 Técnico en Mantenimiento de Equipos de Cómputo
-
-**SENA – Servicio Nacional de Aprendizaje**
-📍 Buenaventura, Colombia | 🗓️ 01/2020 – 12/2021
-
-* Mantenimiento preventivo y correctivo
-* Conectividad básica
-* Fundamentos de redes
-* Soporte técnico
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-00ADEE?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ---
 
-### 📌 Python para Data Science y Análisis de Datos
+## 🎓 Educación & Certificaciones
 
-**Alura Latam**
-🗓️ 07/2025 – 01/2026
-
-* Análisis de datos con NumPy y Pandas
-* Manipulación de datasets
-* Estructuras de datos
-
----
-
-### 📌 Git y GitHub: Control de Versiones
-
-**Alura Latam**
-🗓️ 07/2025 – 01/2026
-
-* Uso de Git y GitHub
-* Commits, ramas y repositorios
-* Trabajo colaborativo
-
----
-
-## 🛠️ Habilidades técnicas
-
-### 🚀 Backend
-
-* **NestJS**
-
-  * APIs RESTful
-  * Controladores, servicios y módulos
-  * DTOs y validaciones
-  * Arquitectura backend básica
-
-* **Node.js**
-
-  * Desarrollo backend con JavaScript
-  * Manejo de paquetes con npm
-  * Integración con frameworks backend
-
-### 📊 Data & Python
-
-* **Python**
-
-  * Pandas y NumPy
-  * Análisis de datos
-  * Scripting y automatización básica
-
-### 🗄️ Bases de datos
-
-* **SQL**
-
-  * SELECT, INSERT, UPDATE
-  * Joins y filtros
-  * Modelado básico
-
-### 🔄 Control de versiones
-
-* **Git & GitHub**
-
-  * Commits y ramas
-  * Repositorios remotos
-
-### 🧠 Metodologías
-
-* **SCRUM**
-
-  * Roles, eventos y artefactos
-  * Trabajo en equipos ágiles
+- **Tecnología en Desarrollo de Software** | Universidad del Valle (En curso)
+- **Técnico en Mantenimiento de Equipos de Cómputo** | SENA
+- **Especialización Backend & Data Science** | Alura Latam + Oracle Next Education
+- **Certificación SCRUM** | SENA
 
 ---
 
 ## 🌍 Idiomas
 
-* 🇺🇸 **Inglés:** A2 (lectura de documentación técnica)
+- 🇪🇸 **Español:** Nativo
+- 🇺🇸 **Inglés:** A2 Elementary (Capacidad para lectura de documentación técnica)
+  ![English](https://img.shields.io/badge/English-A2%20Elementary-blue?style=for-the-badge&logo=googletranslate&logoColor=white)
+
+---
+
+## 📬 Contacto
+
+- 📧 **Email:** joseluispradov046@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/pradov09](https://www.linkedin.com/in/pradov09/)
+- 📍 **Ubicación:** Buenaventura, Colombia
 
 ---
 
@@ -136,6 +80,6 @@ Mi foco está claro: **backend escalable, limpio y eficiente**. Nada de código 
   <img src="https://github-readme-stats.vercel.app/api?username=PradoV09&show_icons=true&theme=tokyonight" height="180" />
 </div>
 
----
-
-> 💡 *Código claro, backend sólido y mentalidad a futuro. El resto se aprende.*
+<p align="center"> 
+  💡 <i>Código claro, backend sólido y mentalidad a futuro. El resto se aprende.</i>
+</p>
