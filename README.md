@@ -77,7 +77,10 @@ Cuento con formación avanzada en **Ciencia de Datos con Python (Pandas, NumPy, 
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PradoV09&show_icons=true&theme=tokyonight" height="180" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=PradoV09&theme=tokyonight&hide_border=true&locale=es" 
+    height="170"
+  />
 </div>
 
 <p align="center"> 
