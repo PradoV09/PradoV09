@@ -49,6 +49,15 @@ Cuento con formación avanzada en **Ciencia de Datos con Python (Pandas, NumPy, 
 
 ---
 
+## 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Tech Stack |
+| :--- | :--- | :--- |
+| **[Smart Trash Backend](https://github.com/PradoV09/smart-trash-backend)** | API robusta para la gestión inteligente de residuos, enfocada en escalabilidad. | NestJS, Node.js, SQL |
+| **[Análisis de Evasión - Telecom](https://github.com/PradoV09/Challenge-Telecom-X-an-lisis-de-evasi-n-de-clientes)** | Análisis predictivo de comportamiento de clientes para reducir la tasa de abandono (churn). | Python, Pandas, Matplotlib |
+
+---
+
 ## 🎓 Educación & Certificaciones
 
 - **Tecnología en Desarrollo de Software** | Universidad del Valle (En curso)
