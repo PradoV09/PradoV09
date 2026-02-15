@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="PradoV09\src\img\WhatsApp Image 2026-02-15 at 10.29.50 AM.jpeg" style="border-radius: 50%;" />
+  <img height="150" src="src/img/profile.jpeg" style="border-radius: 50%;" />
 </div>
 
 <h1 align="center">Hey there 👋, soy Jose Luis Prado Valencia</h1>
