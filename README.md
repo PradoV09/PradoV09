@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/280x280_RS/99/50/95/99509556967c62fdfe5ef5027cf44f1d.jpg" style="border-radius: 50%;" />
+  <img height="150" src="PradoV09\src\img\WhatsApp Image 2026-02-15 at 10.29.50 AM.jpeg" style="border-radius: 50%;" />
 </div>
 
 <h1 align="center">Hey there 👋, soy Jose Luis Prado Valencia</h1>
