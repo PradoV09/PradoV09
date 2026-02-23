@@ -55,7 +55,7 @@ Cuento con formación avanzada en **Ciencia de Datos con Python (Pandas, NumPy, 
 | :--- | :--- | :--- |
 | **[Smart Trash Backend](https://github.com/PradoV09/smart-trash-backend)** | API robusta para la gestión inteligente de residuos, enfocada en escalabilidad. | NestJS, Node.js, SQL |
 | **[Análisis de Evasión - Telecom](https://github.com/PradoV09/Challenge-Telecom-X-an-lisis-de-evasi-n-de-clientes)** | Análisis predictivo de comportamiento de clientes para reducir la tasa de abandono (churn). | Python, Pandas, Matplotlib |
-
+| **[Análisis de Evasión - Telecom - Parte 2](https://github.com/PradoV09/Challenge-Telecom-X-an-lisis-de-evasi-n-de-clientes-parte-2)** |Análisis predictivo de comportamiento de clientes para reducir la tasa de abandono (churn). | Python, Pandas, Matplotlib, Numpy, Scikit-learn, Seaborn |
 ---
 
 ## 🎓 Educación & Certificaciones
