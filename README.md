@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/PradoV09/PradoV09/main/src/img/profile.png" style="border-radius: 50%;" />
+  <img height="150" width="150" src="https://raw.githubusercontent.com/PradoV09/PradoV09/main/src/img/profile.jpeg" style="border-radius: 50%; clip-path: circle();" />
 </div>
 
 <h1 align="center">Jose Luis Prado Valencia</h1>
