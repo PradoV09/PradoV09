@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/PradoV09/PradoV09/main/src/img/profile.jpeg" style="border-radius: 50%;" />
+  <img height="150" src="https://raw.githubusercontent.com/PradoV09/PradoV09/main/src/img/profile.png" style="border-radius: 50%;" />
 </div>
 
 <h1 align="center">Jose Luis Prado Valencia</h1>
@@ -127,8 +127,8 @@ Actualmente cursando **Ingeniería de Sistemas** mientras profundizo en arquitec
   />
   <br/><br/>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradoV09&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-    height="150"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=PradoV09&theme=tokyo-night&hide_border=true"
+    width="100%"
   />
 </div>
 
